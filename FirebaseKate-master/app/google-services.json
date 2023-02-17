@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107555151491",
+    "project_id": "fir-sarocha",
+    "storage_bucket": "fir-sarocha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107555151491:android:038e3deae1b0a7381bc5b6",
+        "android_client_info": {
+          "package_name": "com.example.firebasesarocha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107555151491-prfqs1r89cb4pumg6hhqecij8dupiitt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqGAhpy8i7gsTXvr40lhh2Nt6TTjCH3_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107555151491-prfqs1r89cb4pumg6hhqecij8dupiitt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
